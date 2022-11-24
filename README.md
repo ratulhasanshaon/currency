@@ -14,4 +14,4 @@ python manage.py runserver
 
 ## View-Project
 
-![view](../master/uisnip.png)
+![view](../master/uisnip.jpg)
